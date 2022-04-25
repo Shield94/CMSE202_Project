@@ -1,12 +1,6 @@
 # CMSE202_Project
 
 ```python
-'https://www.kaggle.com/datasets/keplersmachines/kepler-labelled-time-series-data?select=exoTest.csv'
-
-"https://github.com/nageshsinghc4/Exoplanet-exploration/blob/master/exoplanet-exploration-using-ml.ipynb"
-```
-
-```python
 
 '''we found a data set with exoplanet and non exoplanet fluxes we then researched how we would need to read in a edit
 the data. So we found SMOTE which would allow us to be able to creat new data so that our exoplanets. We also split
@@ -36,3 +30,13 @@ In the project Ethan researched and found interquartile range (IQR). He did this
 get rid of the outliers so that our data can get better when we run our models. my IQR code and research was eventually not used becasue we found that when we ran the data after removing the outliers that the method would get rid of some of our very few exoplanets in our datasets. I also created and edited the powerpoint. I added in a good amount of the result images and explained the results that we got from teh images. I also added the transistions in between the slides for our Powerpoint. I also wrote the readme file
 
 In the Project Nolan found a second data set and he worked on it to create a machine learning for it and used the SVM model and he got resulst for predicting exoplanets'''
+
+
+```python
+
+Sources
+
+'https://www.kaggle.com/datasets/keplersmachines/kepler-labelled-time-series-data?select=exoTest.csv'
+
+"https://github.com/nageshsinghc4/Exoplanet-exploration/blob/master/exoplanet-exploration-using-ml.ipynb"
+```
