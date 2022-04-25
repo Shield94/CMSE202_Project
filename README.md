@@ -8,7 +8,7 @@
 
 ```python
 
-```we found a data set with exoplanet and non exoplanet fluxes we then researched how we would need to read in a edit
+we found a data set with exoplanet and non exoplanet fluxes we then researched how we would need to read in a edit
 the data. So we found SMOTE which would allow us to be able to creat new data so that our exoplanets. We also split
 data into a test and a train data set so that can train our machine learning. We then plotted the data so that we can
 observe the intensity of the light fluxes of the training sets. We plotted the exoplanet light fluxes first. We then 
