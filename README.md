@@ -8,7 +8,7 @@
 
 ```python
 
-we found a data set with exoplanet and non exoplanet fluxes we then researched how we would need to read in a edit
+'''we found a data set with exoplanet and non exoplanet fluxes we then researched how we would need to read in a edit
 the data. So we found SMOTE which would allow us to be able to creat new data so that our exoplanets. We also split
 data into a test and a train data set so that can train our machine learning. We then plotted the data so that we can
 observe the intensity of the light fluxes of the training sets. We plotted the exoplanet light fluxes first. We then 
@@ -35,4 +35,4 @@ helped in adding to teh powerpoint by adding descritions of the different comput
 In the project Ethan researched and found interquartile range (IQR). He did this so that we could identify and 
 get rid of the outliers so that our data can get better when we run our models. my IQR code and research was eventually not used becasue we found that when we ran the data after removing the outliers that the method would get rid of some of our very few exoplanets in our datasets. I also created and edited the powerpoint. I added in a good amount of the result images and explained the results that we got from teh images. I also added the transistions in between the slides for our Powerpoint. I also wrote the readme file
 
-In the Project Nolan found a second data set and he worked on it to create a machine learning for it and used the SVM model and he got resulst for predicting exoplanets
+In the Project Nolan found a second data set and he worked on it to create a machine learning for it and used the SVM model and he got resulst for predicting exoplanets'''
