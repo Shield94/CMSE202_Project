@@ -29,7 +29,7 @@ helped in adding to teh powerpoint by adding descritions of the different comput
 In the project Ethan researched and found interquartile range (IQR). He did this so that we could identify and 
 get rid of the outliers so that our data can get better when we run our models. my IQR code and research was eventually not used becasue we found that when we ran the data after removing the outliers that the method would get rid of some of our very few exoplanets in our datasets. I also created and edited the powerpoint. I added in a good amount of the result images and explained the results that we got from teh images. I also added the transistions in between the slides for our Powerpoint. I also wrote the readme file
 
-In the Project Nolan found a second data set and he worked on it to create a machine learning for it and used the SVM model and he got resulst for predicting exoplanets'''
+In the Project Nolan found a second data set and he worked on it to create a machine learning model for it and used the SVM model and he got results for predicting exoplanets using the data provided in the dataset. We later decided not to use this second dataset to keep our project concise and understandable to the audience. The dataset had a different set of features that might make it confusing to explain to the audience. This also may have made it difficult to compare to our other dataset.'''
 
 
 ```python
